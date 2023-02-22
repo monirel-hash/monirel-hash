@@ -2,7 +2,7 @@
 
 [JavaScript | React | MySQL | Native PHP]
 
-IN PROGRESS...
+🌱 I’m currently learning ...
 
 
 | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monirel-hash&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monirel-hash&langs_count=8&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
