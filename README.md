@@ -5,12 +5,18 @@
 [JavaScript | React | MySQL | Native PHP]
 
 
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monirel-hash&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monirel-hash&langs_count=8&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monirel-hash&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) | ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=monirel-hash&layout=compact&theme=radical) |
 |:-:|:-:|
 
 
 
 <!--
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monirel-hash&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monirel-hash&langs_count=8&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) |
+|:-:|:-:|
+
+
+
+
 ** MONIR EL HADJEUI is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
