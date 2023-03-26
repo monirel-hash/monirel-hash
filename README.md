@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there I'm MONIR EL HADJEUI 👋<br>🌱 I’m currently learning ...<br>Trainee at OFPPT (Full-Stack Dev).<br>[JavaScript | React | MySQL | Native PHP]<br>
+Hi there I'm MONIR EL HADJEUI 👋<br>🌱 I’m currently learning ...<br>[JavaScript | React | MySQL | Native PHP]<br>
 
 
 ## 🌐 Socials:
